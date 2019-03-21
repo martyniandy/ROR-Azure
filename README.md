@@ -1,7 +1,7 @@
 ---
 services: app-service\web,app-service
 platforms: ruby
-author: cephalin
+author: Perfect
 ---
 
 # Ruby on Rails sample for Azure App Service
